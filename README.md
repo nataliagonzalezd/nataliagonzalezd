@@ -12,7 +12,7 @@
 
 🔍 Y por último, pero no menos importante, mi serie favorita de todos los tiempos es Sherlock Holmes. ¿Por qué relaciono esto con la programación? Pues, al igual que el famoso detective, en el mundo de la programación se trata de analizar, deducir y resolver problemas complejos.
 
-![Sherlock Holmes gif](https://media.giphy.com/media/l0MYAY18Pxyxwu2xa/giphy.gif)
+![Sherlock Holmes gif](https://i.gifer.com/Ohkl.mp4)
 
 ¡Gracias por visitar mi perfil y espero poder colaborar en algún proyecto interesante! 🤝
 
