@@ -10,7 +10,7 @@
 
 👑 Además, me encanta jugar al ajedrez en mi tiempo libre y si están buscando una partida, no duden en retarme.
 
-🔍 Y por último, pero no menos importante, mi serie favorita de todos los tiempos es Sherlock Holmes. ¿Por qué relaciono esto con la programación? Pues, al igual que el famoso detective, en el mundo de la programación se trata de analizar, deducir y resolver problemas complejos.
+🔍 Mi serie favorita de todos los tiempos es Sherlock Holmes. ¿Por qué relaciono esto con la programación? Pues, al igual que el famoso detective, en el mundo de la programación se trata de analizar, deducir y resolver problemas complejos.
 
 ![Sherlock Holmes gif](https://media.tenor.com/O1qxXe3gu2IAAAAC/sherlock-benedict-cumberbatch.gif)
 
