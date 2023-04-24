@@ -1,4 +1,4 @@
-## Hello, hello! 😎
+## Hello, hello! 😎 [Ver en Español](./README.es.md)
 Welcome to my GitHub profile! I'm Natalia, and first of all, let me tell you that although I may look very serious in my profile picture, I'm actually more fun than I appear!
 
 🤖 Just like artificial intelligence, I can seem very serious and structured at first. But if you get to know me better, you'll realize that I also have a creative and fun side.
