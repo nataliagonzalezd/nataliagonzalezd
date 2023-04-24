@@ -1,4 +1,4 @@
-## Hello, hello! 😎 [Ver en Español](./README.es.md)
+## Hello, hello! 😎
 Welcome to my GitHub profile! I'm Natalia, and first of all, let me tell you that although I may look very serious in my profile picture, I'm actually more fun than I appear!
 
 🤖 Just like artificial intelligence, I can seem very serious and structured at first. But if you get to know me better, you'll realize that I also have a creative and fun side.
@@ -24,3 +24,4 @@ Thanks for visiting my profile, and I hope to collaborate on an interesting proj
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliagonzalezd&" alt="nataliagonzalezd" /></p>
 
+[Ver en Español](./README.es.md)
